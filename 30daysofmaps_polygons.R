@@ -2,7 +2,7 @@ library(data.table)
 library(sf)
 library(showtext)
 ##Highway Gothic font https://www.cufonfonts.com/font/highway-gothic#google_vignette
-font_add(family = "Highway Gothic", regular = "C:/Users/argun/AppData/Local/Microsoft/Windows/Fonts/HWYGOTH.ttf" )
+font_add(family = "Highway Gothic", regular = "path_to_ttf" )
 library(ggplot2)
 library(dplyr)
 
